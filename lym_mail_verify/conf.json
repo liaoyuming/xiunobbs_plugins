@@ -1,0 +1,11 @@
+{
+  "name": "邮箱后缀验证",
+  "brief": "验证注册邮箱后缀",
+  "version": "1.0",
+  "bbs_version": "4.0",
+  "installed": 1,
+  "enable": 1,
+  "hooks_rank": [],
+  "overwrites_rank": [],
+  "dependencies": []
+}

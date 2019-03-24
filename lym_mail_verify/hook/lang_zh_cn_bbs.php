@@ -1,0 +1,1 @@
+'please_input_right_postfix' => '请输入正确域名的邮箱',
